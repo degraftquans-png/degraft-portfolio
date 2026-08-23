@@ -34,7 +34,7 @@ export default function App() {
       <footer id="contact" className="mt-24 bg-black text-white p-10 md:p-20 text-center">
         <h2 className="text-4xl md:text-6xl font-black">QUANS & CO</h2>
         <p className="mt-4 text-white/60">Creative Studio — Accra, Ghana</p>
-<a href="https://wa.me/233243707232" target="_blank" className="bg-[#25D366] text-white px-8 py-3 rounded-full font-bold">Chat on WhatsApp</a>        <p className="mt-12 text-white/30 text-sm">© 2026 Quans & Co. All rights reserved.</p>
+<a href="https://wa.me/233243707232" target="_blank" className="bg-[#25D366] text-white px-8 py-3 rounded-full font-bold mt-6 inline-block">Chat on WhatsApp</a>        <p className="mt-12 text-white/30 text-sm">© 2026 Quans & Co. All rights reserved.</p>
       </footer>
     </main>
   )
