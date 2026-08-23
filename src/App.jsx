@@ -4,7 +4,7 @@ export default function App() {
       {/* NAV */}
       <nav className="flex justify-between p-6 md:p-10 font-bold tracking-tight">
         <span>QUANS & CO</span>
-        <a href="#contact" className="border border-black px-4 py-1 rounded-full text-sm">LET'S TALK</a>
+        <a href="#contact" className="border border-black px-4 py-1 rounded-full text-sm">CONNECT WITH US</a>
       </nav>
 
       {/* HERO - COMPANY STYLE */}
@@ -13,7 +13,7 @@ export default function App() {
           WEBSITE<br/>DEVELOPER<br/>IN ACCRA
         </h1>
         <p className="mt-6 max-w-md text-gray-600">
-          Quans & Co is a creative studio in Accra. We help Ghanaian brands stand out with bold logos, packaging, and social content. Available for new projects.
+          Quans & Co is a creative studio in Accra. We help Ghanaian and international brands stand out with bold logos, packaging, beautiful business websites and social content. Available for new projects.
         </p>
         <div className="mt-8 flex gap-4">
           <a href="#work" className="bg-black text-white px-6 py-3 rounded-full font-bold">Selected Work</a>
@@ -34,7 +34,7 @@ export default function App() {
       <footer id="contact" className="mt-24 bg-black text-white p-10 md:p-20 text-center">
         <h2 className="text-4xl md:text-6xl font-black">QUANS & CO</h2>
         <p className="mt-4 text-white/60">Creative Studio — Accra, Ghana</p>
-        <a href="https://wa.me/233XXXXXXXXX" className="inline-block mt-8 bg-white text-black px-8 py-4 rounded-full font-bold">Chat on WhatsApp</a>
+        <a href="https://wa.me/233243707232" className="inline-block mt-8 bg-white text-black px-8 py-4 rounded-full font-bold">Chat on WhatsApp</a>
         <p className="mt-12 text-white/30 text-sm">© 2026 Quans & Co. All rights reserved.</p>
       </footer>
     </main>
