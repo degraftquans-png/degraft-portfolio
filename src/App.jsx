@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    <main className="min-h-screen bg-[#fcfbf7] text-black font-sans">
+    <main className="min-h-screen bg-[#e6f2ff] text-black font-sans">
       {/* NAV */}
       <nav className="flex justify-between p-6 md:p-10 font-bold tracking-tight">
         <span>QUANS & CO</span>
