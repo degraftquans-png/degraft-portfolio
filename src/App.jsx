@@ -16,7 +16,7 @@ export default function App() {
           Quans & Co is a creative studio in Accra. We help Ghanaian and international brands stand out with bold logos, packaging, beautiful business websites and social content. Available for new projects.
         </p>
         <div className="mt-8 flex gap-4">
-          <a href="#work" className="bg-black text-white px-6 py-3 rounded-full font-bold">Selected Work</a>
+          <a href="https://wa.me/233243707232" target="_blank" className="bg-[#25D366] text-white px-5 py-2 rounded-full text-sm font-bold">WHATSAPP US</a>
           <div className="flex gap-2">
             <div className="w-14 h-14 bg-black rounded-2xl"></div>
             <div className="w-14 h-14 bg-[#ffeb3b] rounded-2xl"></div>
